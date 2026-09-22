@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<!-- Tu GIF local de Spiderman -->
-<img src="./gifs/Art%20Spiderman%20GIF.gif" width="200px" alt="Spiderman GIF" />
+<!-- Tu nuevo GIF local del Ojo -->
+<img src="./gifs/music%20video%20animation%20GIF%20by%20mattisdovier.gif" width="220px" alt="Eye GIF" />
 
 <br/>
 
