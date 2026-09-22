@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**salasormenogericaldair01-cell/salasormenogericaldair01-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Geri Aldair 👋
 
-Here are some ideas to get you started:
+### Estudiante / Desarrollador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contador de visitas ajustado a tu usuario -->
+![Views](https://komarev.com/ghpvc/?username=salasormenogericaldair01-cell&color=ff69b4&style=flat)
+
+<!-- Imagen o GIF animado -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2ZnRzc2R4dWJqYzI0Y3ByZXByZXByZXByZXByZXA/L1R1tvI9sv3y0/giphy.gif" width="200px" />
+
+</div>
+
+---
+
+### 🚀 Sobre mí
+- 🔭 Actualmente trabajando en: **[Tus proyectos]**
+- 🛠️ Tecnologías que uso: **JavaScript, Python, HTML/CSS**
+- 💬 Pregúntame sobre: **[Tus áreas de interés]**
+- 📫 Contacto: **[Tu correo o LinkedIn]**
