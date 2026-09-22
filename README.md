@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<!-- Sticker / GIF 1: Gato Pixel en la caja -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2ZnRzc2R4dWJqYzI0Y3ByZXByZXByZXByZXByZXA/L1R1tvI9sv3y0/giphy.gif" width="160px" />
+<!-- Tu GIF local de Spiderman -->
+<img src="./gifs/Art%20Spiderman%20GIF.gif" width="200px" alt="Spiderman GIF" />
 
 <br/>
 
