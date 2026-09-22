@@ -24,8 +24,10 @@
 
 <br/><br/>
 
-<!-- Tarjetas de Estadísticas -->
-<img src="https://github-readme-stats.vercel.app/api?username=salasormenogericaldair01-cell&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=94a3b8" height="145" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salasormenogericaldair01-cell&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=94a3b8" height="145" />
+<!-- Badges Aesthetic de Tecnologías (Sin APIs externas) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
