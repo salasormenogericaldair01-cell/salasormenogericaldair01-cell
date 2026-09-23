@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<!-- Badges Tecnológicos Aesthetic -->
+<!-- Badges Tecnológicos Aesthetic (Corregidos) -->
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-181825?style=flat-square&logo=typescript&logoColor=c084fc" />
   <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=c084fc" />
@@ -36,11 +36,10 @@
 
 ---
 
-<!-- Sección Cierre / Contacto -->
+<!-- Sección Cierre / Contacto (Con tu enlace de LinkedIn funcional) -->
 <p align="center">
   <sub>Let's connect ── ✦</sub><br/><br/>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-181825?style=flat-square&logo=gmail&logoColor=c084fc"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-181825?style=flat-square&logo=linkedin&logoColor=c084fc"/></a>
+  <a href="https://www.linkedin.com/in/geri-cua-2346aa2b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-181825?style=flat-square&logo=linkedin&logoColor=c084fc"/></a>
 </p>
 
 </div>
