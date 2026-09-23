@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<!-- GIF local del Ojo -->
+<!-- GIF Principal (Ojo) -->
 <img src="./gifs/music%20video%20animation%20GIF%20by%20mattisdovier.gif" width="220px" alt="Eye GIF" />
 
 <br/>
@@ -24,22 +24,34 @@
 
 <br/><br/>
 
-<!-- Badges Tecnológicos (Iconos Blancos Probados) -->
+<!-- Rejilla de Tecnologías y Herramientas (SkillIcons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,html,css,vscode,git,github&theme=dark" />
+  </a>
 </p>
+
+<br/>
+
+<!-- Desplegable estilo 'More Info' -->
+<details>
+  <summary><b>► More Info</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=salasormenogericaldair01-cell&theme=tokyonight&show_icons=true" />
+  </p>
+</details>
 
 <br/>
 
 ---
 
-<!-- Sección Cierre / Contacto (LinkedIn con icono blanco) -->
+<!-- Sección Cierre / Contacto -->
 <p align="center">
   <sub>Let's connect ── ✦</sub><br/><br/>
-  <a href="https://www.linkedin.com/in/geri-cua-2346aa2b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/geri-cua-2346aa2b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 </div>
